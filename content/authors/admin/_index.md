@@ -1,8 +1,8 @@
 ---
 title: Anson Jiang
 role: Ph.D. Student in Accounting
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: anson_photo.jpg
+bio: ""
 interests: []
 social:
   - icon: envelope
