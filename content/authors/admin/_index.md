@@ -19,15 +19,15 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Accounting
+    - course: Ph.D. in Accounting
       institution: The University of Melbourne
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023
+    - course: M.Mgt. in Accounting
+      institution: The University of Melbourne
+      year: 2017
+    - course: B.A. in Journalism
+      institution: Tsinghua University
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
