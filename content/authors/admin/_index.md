@@ -42,4 +42,4 @@ I obtained my master's degree in Accounting from The University of Melbourne and
 
 I will be on the job market in Autumn 2023.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/anson_academic_resume_2022aug-2-.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "content/authors/Anson_Academic_Resume_2022Aug.pdf" "newtab" >}}resumé{{< /staticref >}}.
